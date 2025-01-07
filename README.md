@@ -18,8 +18,13 @@ Cada proyecto será una integración con una API
         <tr>
             <td>
                 <a href="https://developers.facebook.com/apps"> Api Link </a>
+                <h2>Repos</h2>
+                <a href="https://github.com/miguel-124C/whatsApp-Chat-Front"> Link Repo Front </a>
+                <br>
+                <a href="https://github.com/miguel-124C/whatsApp-Chat-Back"> Link Repo Back </a>
                 <p>
-                    Integracion con la api de meta de whatsapp
+                    Integracion con la api de meta de whatsapp, coneccion a un server y con socket
+                    creando un chat en tiempo real.
                 </p>
             </td>
             <td>
