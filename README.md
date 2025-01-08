@@ -30,7 +30,7 @@ Cada proyecto será una integración con una API
             <td>
                 <a href="https://docs.netlify.com/api/get-started/"> Api Link </a>
                 <p>
-                    Integracion con la api de meta de whatsapp
+                    Integracion con la api de Netlift. Creando una pantalla para administrar los sitios
                 </p>
             </td>
         </tr>
@@ -50,13 +50,13 @@ Cada proyecto será una integración con una API
             <td>
                 <a href="https://steamcommunity.com/dev?l=spanish"> Api Link </a>
                 <p>
-                    Integracion con la api de meta de whatsapp
+                    Creando una pantalla para ver la lista de juegos de steam
                 </p>
             </td>
             <td>
                 <a href="https://developers.google.com/workspace?hl=es-419"> Api Link </a>
                 <p>
-                    Integracion con la api de meta de whatsapp
+                    Envío de correos
                 </p>
             </td>
         </tr>
@@ -77,13 +77,13 @@ Cada proyecto será una integración con una API
             <td>
                 <a href="https://developer.spotify.com/documentation/web-api"> Api Link </a>
                 <p>
-                    Integracion con la api de meta de whatsapp
+                    Ver los repositorios subidos y poder subir un repo desde una pantalla admin
                 </p>
             </td>
             <td>
                 <a href="https://developers.google.com/identity?hl=es-419"> Api Link </a>
                 <p>
-                    Integracion con la api de meta de whatsapp
+                    Crear un login con la opción de ingresar con su cuenta de Google
                 </p>
             </td>
         </tr>
@@ -105,13 +105,13 @@ Cada proyecto será una integración con una API
             <td>
                 <a href="https://discord.com/developers/applications"> Api Link </a>
                 <p>
-                    Integracion con la api de meta de whatsapp
+                    Crear una rifa con miembros de un servidor de discord
                 </p>
             </td>
             <td>
                 <a href="https://developer.spotify.com/documentation/web-api"> Api Link </a>
                 <p>
-                    Integracion con la api de meta de whatsapp
+                    Poder mostrar las playlist de un usuario y poder escuchar músicas
                 </p>
             </td>
         </tr>
@@ -133,13 +133,13 @@ Cada proyecto será una integración con una API
             <td>
                 <a href="https://www.themealdb.com"> Api Link </a>
                 <p>
-                    Integracion con la api de meta de whatsapp
+                    Crear un sitio donde puedan estar una lista de recetas, hacer un crud.
                 </p>
             </td>
             <td>
                 <a href="https://unsplash.com/developers"> Api Link </a>
                 <p>
-                    Integracion con la api de meta de whatsapp
+                    Crear una galería de imágenes, un apartado de búsqueda de imágenes y poder descargarlas
                 </p>
             </td>
         </tr>
@@ -160,13 +160,13 @@ Cada proyecto será una integración con una API
             <td>
                 <a href="https://developer.clashroyale.com/#/"> Api Link </a>
                 <p>
-                    Integracion con la api de meta de whatsapp
+                    Mostrar cartas de clash royale y sus estadísticas
                 </p>
             </td>
             <td>
                 <a href="https://sv443.net/jokeapi/v2/?ref=apilist.fun"> Api Link </a>
                 <p>
-                    Integracion con la api de meta de whatsapp
+                    Genrar chistes aleatorios
                 </p>
             </td>
         </tr>
