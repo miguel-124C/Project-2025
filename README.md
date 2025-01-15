@@ -29,6 +29,9 @@ Cada proyecto será una integración con una API
             </td>
             <td>
                 <a href="https://docs.netlify.com/api/get-started/"> Api Link </a>
+                <h2>Repos</h2>
+                <a href="https://github.com/miguel-124C/front-netlify-api"> Link Repo Front </a>
+                <br>
                 <p>
                     Integracion con la api de Netlift. Creando una pantalla para administrar los sitios
                 </p>
